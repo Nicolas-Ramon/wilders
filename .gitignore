@@ -1,5 +1,1 @@
-# Lines starting with `#` are comments.
-
-# Ignoring directories
-
 /node_modules
